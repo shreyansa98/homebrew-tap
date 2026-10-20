@@ -1,6 +1,6 @@
 cask "dockside" do
-  version "0.2.0-beta"
-  sha256 "53c864d2e52d5ef5e000ee6de7b2381f2572eb48a5bddbf50524bb2304867476"
+  version "0.2.1-beta"
+  sha256 "3c0c0c336336f461842ab65c747c3e0a8c237c959934eea46eb8311f7499eda1"
 
   url "https://github.com/shreyansa98/Dockside/releases/download/v#{version}/Dockside-#{version}.dmg"
   name "Dockside"

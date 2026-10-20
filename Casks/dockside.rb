@@ -12,7 +12,7 @@ cask "dockside" do
     regex(/^v?(\d+(?:\.\d+)+(?:-beta)?)$/i)
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Dockside.app"
 

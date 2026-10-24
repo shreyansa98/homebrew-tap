@@ -1,6 +1,6 @@
 # Homebrew tap for Dockside
 
-[Dockside](https://github.com/shreyansa98/Dockside) — your Mac's smart second dock: live widgets, Claude built in, picture-in-picture video. Free and open source.
+[Dockside](https://github.com/app-dialect/Dockside) — your Mac's smart second dock: live widgets, Claude built in, picture-in-picture video. Free and open source.
 
 ```sh
 brew install --cask shreyansa98/tap/dockside

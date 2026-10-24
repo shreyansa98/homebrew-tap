@@ -2,13 +2,13 @@ cask "dockside" do
   version "0.2.2-beta"
   sha256 "ed336a61a05151e3bf816d4d9d9313fa26adb567a2796ef7ecc44d80b6246a29"
 
-  url "https://github.com/shreyansa98/Dockside/releases/download/v#{version}/Dockside-#{version}.dmg"
+  url "https://github.com/app-dialect/Dockside/releases/download/v#{version}/Dockside-#{version}.dmg"
   name "Dockside"
   desc "Smart second dock with live widgets and Claude built in"
-  homepage "https://github.com/shreyansa98/Dockside"
+  homepage "https://github.com/app-dialect/Dockside"
 
   livecheck do
-    url "https://github.com/shreyansa98/Dockside.git"
+    url "https://github.com/app-dialect/Dockside.git"
     regex(/^v?(\d+(?:\.\d+)+(?:-beta)?)$/i)
   end
 
